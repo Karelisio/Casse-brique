@@ -1,0 +1,91 @@
+{
+  "legend": "G/1 verre, W/2 bois, S/3 pierre, M métal (4), X acier indestructible, E explosif, . vide",
+  "levels": [
+    { "name": "Vitrine", "rows": [
+      "GGGGGGGGGG",
+      "GGGGGGGGGG",
+      "WWWWWWWWWW",
+      "GGGGGGGGGG",
+      ".GGGGGGGG."
+    ]},
+    { "name": "Charpente", "rows": [
+      "WWWW..WWWW",
+      "WGGW..WGGW",
+      "WGGW..WGGW",
+      "WWWWEEWWWW",
+      "..GGGGGG..",
+      "..WWWWWW.."
+    ]},
+    { "name": "Pyramide", "rows": [
+      "....SS....",
+      "...SWWS...",
+      "..SWGGWS..",
+      ".SWGEEGWS.",
+      "SWGGGGGGWS",
+      "GGGGGGGGGG"
+    ]},
+    { "name": "Remparts", "rows": [
+      "S.S.SS.S.S",
+      "SSSSSSSSSS",
+      "WWWWWWWWWW",
+      "X..GGGG..X",
+      "X..GEEG..X",
+      "XXX....XXX"
+    ]},
+    { "name": "Damier", "rows": [
+      "GWGWGWGWGW",
+      "WGWGWGWGWG",
+      "SMSMSMSMSM",
+      "MSMSMSMSMS",
+      "GWGWEWGWGW",
+      "WGWGWGWGWG"
+    ]},
+    { "name": "Poudrière", "rows": [
+      "EGGEGGEGGE",
+      "GWWGWWGWWG",
+      "GWEGWWGEWG",
+      "GWWGEEGWWG",
+      "SSSSSSSSSS",
+      "..X....X.."
+    ]},
+    { "name": "Forge", "rows": [
+      "MMMMMMMMMM",
+      "M.SSSSSS.M",
+      "M.SEGGES.M",
+      "M.SSSSSS.M",
+      "MMMM..MMMM",
+      "GGGGGGGGGG",
+      "X........X"
+    ]},
+    { "name": "Cathédrale", "rows": [
+      "....GG....",
+      "...GSSG...",
+      "..GSGGSG..",
+      ".GSGWWGSG.",
+      "GSGWEEWGSG",
+      "SSGWWWWGSS",
+      "SSXXGGXXSS",
+      "SS......SS"
+    ]},
+    { "name": "Coffre-fort", "rows": [
+      "XXXXXXXXXX",
+      "XMMMMMMMMX",
+      "XMSSSSSSMX",
+      "XMSEGGESMX",
+      "XMSSSSSSMX",
+      "XMMM..MMMX",
+      "XXXX..XXXX",
+      "GGGGGGGGGG"
+    ]},
+    { "name": "Apocalypse", "rows": [
+      "EMEMEMEMEM",
+      "SSSSSSSSSS",
+      "MWMWMWMWMW",
+      "GEGGEEGGEG",
+      "SMSMSMSMSM",
+      "WWWWWWWWWW",
+      "X.X.X.X.X.",
+      "GGGGGGGGGG"
+    ]}
+  ]
+}
