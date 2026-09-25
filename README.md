@@ -26,6 +26,12 @@ npm run cap:open:android     # ouvre Android Studio
 ```
 En natif, `src/platform/` passe automatiquement par les plugins Capacitor : vibrations (Haptics), verrouillage portrait (ScreenOrientation), mise en pause en arrière-plan et bouton retour Android (App). Sur le web, les API du navigateur prennent le relais.
 
+### APK automatique (GitHub Actions)
+Le workflow `.github/workflows/android.yml` génère un APK installable (debug) à chaque push sur `main` et sur chaque PR :
+*Actions → APK Android → dernier run → Artifacts → `casse-brique-apk`*.
+Un tag `v*` (ex. `git tag v1.0.0 && git push --tags`) attache aussi l'APK à une release GitHub.
+Sur le téléphone : autoriser « Installer des applis inconnues », puis ouvrir l'APK.
+
 ## Architecture
 ```
 src/
